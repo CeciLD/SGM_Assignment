@@ -11,3 +11,5 @@ Shoot with the Right Button (RB)
 Aim with the Right joystick
 
 Assets: We used a toucan with animation https://assetstore.unity.com/packages/3d/characters/animals/toucan-animated-55409
+
+Youtube: https://www.youtube.com/watch?v=i8DhjLGTpKE
