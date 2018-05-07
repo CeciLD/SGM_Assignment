@@ -1,0 +1,22 @@
+fileFormatVersion: 2
+guid: 3a9ed34f6c6ec454284a87c1e6c059a1
+timeCreated: 1525093813
+licenseType: Free
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - gm: {fileID: 114134167169596888, guid: 320c2a548c92d6141909ffe2bb54af63, type: 2}
+  - Player1Lives: {fileID: 114527518201082610, guid: 0584b52c5c553ec45b889ddd65b1ea3c,
+      type: 2}
+  - Player2Lives: {fileID: 114636743924534004, guid: 3099fa5b04a984d4b99211ded72dc41c,
+      type: 2}
+  - Player3Lives: {fileID: 114690103682065160, guid: 134665c9968151740886cad6076b5752,
+      type: 2}
+  - Player4Lives: {fileID: 114858301951607138, guid: 692fd4fd7e79d194a9c86dea73d6a959,
+      type: 2}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

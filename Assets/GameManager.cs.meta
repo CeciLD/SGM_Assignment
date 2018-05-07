@@ -1,0 +1,17 @@
+fileFormatVersion: 2
+guid: 3acd036cfa6dc6347a1c9c6e36a50afa
+timeCreated: 1525093745
+licenseType: Free
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - endGameText: {fileID: 114773973166504946, guid: ee64fcd71cc4e034cba1784570778d92,
+      type: 2}
+  - pausedText: {fileID: 114464449805556058, guid: 7f8cea801c280af4ab35185090c15864,
+      type: 2}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
